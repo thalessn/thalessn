@@ -6,4 +6,4 @@
 
 I'm very curious about backend world and always looking for new adventures.
 
-🌱 I’m currently learning: •Javascript •Typescript • Nodejs.
+🌱 I’m currently learning: •Golang •Javascript •Typescript • Nodejs.
